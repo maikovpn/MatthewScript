@@ -9,7 +9,7 @@ DBNAME='matthewv1_matthewvpn';
 PORT_TCP='1194';
 PORT_UDP='110';
 PORT_SSL='443';
-API_LINK='http://www.matthewvpn-panel.online/api/authentication/premium';
+API_LINK='http://www.matthewvpn.store/api/authentication/premium';
 API_KEY='DexterEskalarte';
 
 
